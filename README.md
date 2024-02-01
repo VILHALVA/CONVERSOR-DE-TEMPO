@@ -4,7 +4,16 @@
 <img src="FOTO.png" align="center" width="500"> <br>
 
 ## DESCRIÇÃO:
-O Conversor de Tempo é uma aplicação web que permite converter valores de tempo entre diferentes unidades, como segundos, minutos, horas, dias, meses e anos. 
+Este projeto é um conversor de tempo que permite aos usuários converter entre diferentes unidades de tempo, como segundos, minutos, horas, dias, meses e anos. Aqui estão as principais funcionalidades implementadas:
+
+1. Inserir Valor e Selecionar Unidade:
+   - Os usuários podem inserir o valor desejado no campo "VALOR" e selecionar a unidade de tempo de origem na lista suspensa "ESCOLHA A UNIDADE".
+
+2. Converter:
+   - Ao clicar no botão "CONVERTER", o sistema realizará a conversão para as outras unidades selecionadas e exibirá os resultados abaixo.
+
+3. Limpar:
+   - O botão "LIMPAR" permite que os usuários redefinam o formulário, limpando o valor inserido e os resultados exibidos.
 
 ## COMO USAR?
 ### BAIXANDO O PROJETO:
