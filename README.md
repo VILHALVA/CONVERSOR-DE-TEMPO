@@ -15,29 +15,7 @@ Este projeto é um conversor de tempo que permite aos usuários converter entre 
 3. Limpar:
    - O botão "LIMPAR" permite que os usuários redefinam o formulário, limpando o valor inserido e os resultados exibidos.
 
-## COMO USAR?
-### BAIXANDO O PROJETO:
-* Clone o repositório para o seu sistema local:
-
-```bash
-git clone https://github.com/VILHALVA/CONVERSOR-DE-TEMPO.git
-```
-
-* Navegue até o diretório do projeto.
-
-```bash
-cd CONVERSOR-DE-TEMPO
-```
-
-* Descompacte o arquivo ZIP (se você baixou manualmente):
-
-```bash
-unzip CONVERSOR-DE-TEMPO.zip
-```
-
-* Abra o arquivo `CODIGO.html` em seu navegador de preferência.
-
-### EXECUTANDO O PROJETO:
+## EXECUTANDO O PROJETO:
 1. Inserir Valor e Escolher Unidade:
    - Digite o valor que deseja converter no campo "VALOR".
    - Escolha a unidade de tempo correspondente no menu suspenso "ESCOLHA A UNIDADE".
@@ -52,9 +30,9 @@ unzip CONVERSOR-DE-TEMPO.zip
    
 ## NÃO SABE?
 - Entendemos que para manipular arquivos em `HTML`, `CSS` e outras linguagens relacionadas, é necessário possuir conhecimento nessas áreas. Para auxiliar nesse aprendizado, oferecemos cursos gratuitos disponíveis:
-* [Curso de HTML e CSS](https://github.com/VILHALVA/CURSO-DE-HTML-E-CSS)
-* [Curso de JavaScript](https://github.com/VILHALVA/CURSO-DE-JAVASCRIPT)
-* [Confira mais cursos](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
+* [CURSO DE HTML E CSS](https://github.com/VILHALVA/CURSO-DE-HTML-E-CSS)
+* [CURSO DE JAVASCRIPT](https://github.com/VILHALVA/CURSO-DE-JAVASCRIPT)
+* [CONFIRA MAIS CURSOS](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
 
 ## CREDITOS:
 - [PROJETO CRIADO PELO VILHALVA](https://github.com/VILHALVA)
