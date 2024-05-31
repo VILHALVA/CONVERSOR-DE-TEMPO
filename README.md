@@ -36,5 +36,3 @@ Este projeto é um conversor de tempo que permite aos usuários converter entre 
 
 ## CREDITOS:
 - [PROJETO CRIADO PELO VILHALVA](https://github.com/VILHALVA)
-- [ESTÁ DISPONIVEL NO SITE](https://vilhalva.github.io/STYLER/STYLER.html)
-
